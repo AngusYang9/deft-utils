@@ -14,4 +14,6 @@ npm install deft-utils
 # utils列表
 
 - copy 
+- blobTobase64
+- dataURItoBlob
 
