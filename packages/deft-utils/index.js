@@ -6,3 +6,4 @@ module.exports = {
   blobTobase64,
   dataURItoBlob,
 }
+
