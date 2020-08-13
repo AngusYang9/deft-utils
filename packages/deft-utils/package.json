@@ -1,6 +1,6 @@
 {
   "name": "deft-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "deft utils are designed to speed up your development",
   "main": "index.js",
   "scripts": {
