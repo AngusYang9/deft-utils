@@ -14,6 +14,12 @@ npm install deft-utils
 # utils列表
 
 - copy 
+- renameKeys
 - blobTobase64 (Promise)
 - dataURItoBlob
 
+# 按需引入
+
+```javascript
+import renameKeys from 'deft-utils/renameKeys';
+```
